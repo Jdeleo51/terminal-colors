@@ -1,6 +1,3 @@
-Here is the formatted `README.md` file. You can add this directly to the root of your repository so students see it immediately when they open the Codespace.
-
------
 
 # Assignment: Using an External C Library 
 
